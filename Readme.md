@@ -1,7 +1,7 @@
 # Simple PHP Shop Script for data
 First attempt at making a shop script in PHP.
 
-#Features
+# Features
 Admin
 -View Orders
 - Deposit Log
@@ -43,5 +43,5 @@ User
 - Change Password
 - Support Tickets
 
-#Changelog
+# Changelog
 
